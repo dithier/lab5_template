@@ -15,7 +15,6 @@ This is the starting readme for this assignment.  Please edit the following info
   - *edit me*
   - *edit me and add more rows if needed*
 
-- **Shareable link to experiment data: *edit me***
 
 ## Logistics
 
